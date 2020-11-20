@@ -1,0 +1,50 @@
+[
+  {
+    "province": "Groningen",
+    "percentage": "14,2"
+  },
+  {
+    "province": "Friesland",
+    "percentage": "12,0"
+  },
+  {
+    "province": "Drenthe",
+    "percentage": "16,5"
+  },
+  {
+    "province": "Overijssel",
+    "percentage": "15,5"
+  },
+  {
+    "province": "Flevoland",
+    "percentage": "14,1"
+  },
+  {
+    "province": "Gelderland",
+    "percentage": "14,4"
+  },
+  {
+    "province": "Utrecht",
+    "percentage": "12,1"
+  },
+  {
+    "province": "Noord-Holland",
+    "percentage": "13,4"
+  },
+  {
+    "province": "Zuid-Holland",
+    "percentage": "15,9"
+  },
+  {
+    "province": "Zeeland",
+    "percentage": "16,0"
+  },
+  {
+    "province": "Noord-Brabant",
+    "percentage": "15,9"
+  },
+  {
+    "province": "Limburg",
+    "percentage": "16,3"
+  }
+]
