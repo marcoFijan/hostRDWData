@@ -1,50 +1,50 @@
 [
   {
-    "province": "Groningen",
-    "percentage": 14
+    "location": "Groningen",
+    "percentage": 14.2
   },
   {
-    "province": "Friesland",
+    "location": "Friesland",
     "percentage": 12
   },
   {
-    "province": "Drenthe",
-    "percentage": 17
+    "location": "Drenthe",
+    "percentage": 16.5
   },
   {
-    "province": "Overijssel",
+    "location": "Overijssel",
+    "percentage": 15.5
+  },
+  {
+    "location": "Flevoland",
+    "percentage": 14.1
+  },
+  {
+    "location": "Gelderland",
+    "percentage": 14.4
+  },
+  {
+    "location": "Utrecht",
+    "percentage": 12.1
+  },
+  {
+    "location": "Noord-Holland",
+    "percentage": 13.4
+  },
+  {
+    "location": "Zuid-Holland",
+    "percentage": 15.9
+  },
+  {
+    "location": "Zeeland",
     "percentage": 16
   },
   {
-    "province": "Flevoland",
-    "percentage": 14
+    "location": "Noord-Brabant",
+    "percentage": 15.9
   },
   {
-    "province": "Gelderland",
-    "percentage": 14
-  },
-  {
-    "province": "Utrecht",
-    "percentage": 12
-  },
-  {
-    "province": "Noord-Holland",
-    "percentage": 13
-  },
-  {
-    "province": "Zuid-Holland",
-    "percentage": 16
-  },
-  {
-    "province": "Zeeland",
-    "percentage": 16
-  },
-  {
-    "province": "Noord-Brabant",
-    "percentage": 16
-  },
-  {
-    "province": "Limburg",
-    "percentage": 16
+    "location": "Limburg",
+    "percentage": 16.3
   }
 ]
